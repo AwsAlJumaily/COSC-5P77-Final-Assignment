@@ -8,4 +8,4 @@ Note: This code is an extention of the code found at: https://github.com/bacnguy
 Note: this code requires the MNIST and Fashion_MNIST datasets from torchvision. Upon running main.py, they will automatically be downloaded if they are not present in the datasets folder.
 
 Run instructions:
-1. In main.py, set the desired "dataset" and "model_type variables", then run the file.
+1. In main.py, set the desired "dataset" and "model_type" variables, then run the file.
