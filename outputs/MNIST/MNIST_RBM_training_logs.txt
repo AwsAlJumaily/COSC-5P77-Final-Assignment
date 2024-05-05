@@ -1,0 +1,10 @@
+Epoch 0	 Loss=129.6041	 Time=9.42 seconds
+Epoch 1	 Loss=17.4054	 Time=18.93 seconds
+Epoch 2	 Loss=8.3829	 Time=28.54 seconds
+Epoch 3	 Loss=5.9980	 Time=38.24 seconds
+Epoch 4	 Loss=5.4060	 Time=47.93 seconds
+Epoch 5	 Loss=5.2488	 Time=57.70 seconds
+Epoch 6	 Loss=5.2649	 Time=67.47 seconds
+Epoch 7	 Loss=5.3690	 Time=77.28 seconds
+Epoch 8	 Loss=5.3817	 Time=87.23 seconds
+Epoch 9	 Loss=5.4516	 Time=97.15 seconds
