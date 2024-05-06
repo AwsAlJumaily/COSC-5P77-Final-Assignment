@@ -1,6 +1,8 @@
 # COSC-5P77-Final-Assignment
 Name: Aws Al Jumaily 
+
 Student ID: 6459861
+
 COSC 5P77: Final Assignment 
 
 Note: This code is an extention of the code found at: https://github.com/bacnguyencong/rbm-pytorch/tree/master
